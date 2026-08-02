@@ -1,0 +1,13 @@
+{
+  "name": "english-vocab-assistant",
+  "version": "1.0.0",
+  "description": "初中英语单词智能听写助手 - 集成听写练习、科学背诵、语音跟读评测、智能单词机",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
